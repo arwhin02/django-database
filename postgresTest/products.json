@@ -1,0 +1,133 @@
+[{
+  "id": 1,
+  "name": "Egg",
+  "price": 10.00,
+  "description": "An Egg",
+  "stock": 20
+}, {
+  "id": 2,
+  "name": "Apple",
+  "price": 30.00,
+  "description": "An Apple",
+  "stock": 15
+}, {
+  "id": 4,
+  "name": "Latundan Banana",
+  "price": 90.00,
+  "description": "Latundan Banana",
+  "stock": 30
+}, {
+  "id": 5,
+  "name": "Calamansi (250g)",
+  "price": 30.00,
+  "description": "A Calamansi",
+  "stock": 100
+}, {
+  "id": 6,
+  "name": "Saba Banana",
+  "price": 55.00,
+  "description": "Saba",
+  "stock": 30
+}, {
+  "id": 7,
+  "name": "Longgan (1kg)",
+  "price": 300.00,
+  "description": "Longgan",
+  "stock": 100
+}, {
+  "id": 3,
+  "name": "Lakatan Banana",
+  "price": 140.00,
+  "description": "Lakatan Banana",
+  "stock": 30
+}, {
+  "id": 8,
+  "name": "Carrots",
+  "price": 55.00,
+  "description": "Carrots",
+  "stock": 100
+}, {
+  "id": 9,
+  "name": "Cabbage (500g)",
+  "price": 60.00,
+  "description": "A Cabbage",
+  "stock": 70
+}, {
+  "id": 10,
+  "name": "Ginger (350g)",
+  "price": 35.00,
+  "description": "Luya",
+  "stock": 50
+}, {
+  "id": 11,
+  "name": "Tomato (350g)",
+  "price": 35.00,
+  "description": "Kamatis",
+  "stock": 100
+}, {
+  "id": 12,
+  "name": "Potato (500g)",
+  "price": 40.00,
+  "description": "Patatas",
+  "stock": 100
+}, {
+  "id": 13,
+  "name": "Sayote (600g)",
+  "price": 30.00,
+  "description": "Sayote",
+  "stock": 50
+}, {
+  "id": 14,
+  "name": "Cauliflower (200g)",
+  "price": 90.00,
+  "description": "Cauliflower",
+  "stock": 50
+}, {
+  "id": 15,
+  "name": "Okra (350g)",
+  "price": 20.00,
+  "description": "Okra",
+  "stock": 70
+}, {
+  "id": 16,
+  "name": "Bell Pepper (250)",
+  "price": 40.00,
+  "description": "Bell Pepper",
+  "stock": 70
+}, {
+  "id": 17,
+  "name": "Kangkong (500g)",
+  "price": 14.00,
+  "description": "Kangkong",
+  "stock": 100
+}, {
+  "id": 18,
+  "name": "Sibuyas (400g)",
+  "price": 70.00,
+  "description": "Onion",
+  "stock": 100
+}, {
+  "id": 19,
+  "name": "Talong (500g)",
+  "price": 30.00,
+  "description": "Eggplant",
+  "stock": 60
+}, {
+  "id": 20,
+  "name": "Bawang (300g)",
+  "price": 40.00,
+  "description": "Garlic",
+  "stock": 100
+}, {
+  "id": 21,
+  "name": "Baguio Beans (100g)",
+  "price": 15.00,
+  "description": "Beans",
+  "stock": 100
+}, {
+  "id": 22,
+  "name": "Sitaw (100g)",
+  "price": 20.00,
+  "description": "String Bean",
+  "stock": 60
+}]
